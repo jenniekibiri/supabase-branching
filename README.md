@@ -1,6 +1,5 @@
 # Supabase Branching — Concepts
 
-> Talk notes. Practical walkthrough follows in a separate section.
 
 ---
 
